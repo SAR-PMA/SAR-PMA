@@ -45,6 +45,8 @@ My goal is simple: **to innovate, learn, and build impactful solutions**. I stay
 4. **Send a Pull Request** 🏅
 
 Feel free to open issues or ask questions—I'm always happy to help!
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Padma-SAR.github-profile)
+
 
 ---
 
