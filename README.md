@@ -1,6 +1,6 @@
 # 🧙‍♂️ **Software Developer** | **Cloud (AWS)** | **CI/CD** | **Docker** | **kubernetes**
  
-Welcome to my GitHub! 👋 I'm a **Software Developer** 🧑‍💻, passionate about creating **scalable**, **eff icient**, and **cloud-powered systems**. Each day, I push myself to **expand my limits** by mastering cutting-edge technologies like **Spring Boot**, **Kafka**, and **AWS**. I believe in constant growth—never satisfied with the status quo—and always striving to **reach new heights** in my development journey. 🚀
+Welcome to my GitHub! 👋 I'm a **Software Developer** 🧑‍💻, passionate about creating **scalable**, **efficient**, and **cloud-powered systems**. Each day, I push myself to **expand my limits** by mastering cutting-edge technologies like **Spring Boot**, **Kafka**, and **AWS**. I believe in constant growth—never satisfied with the status quo—and always striving to **reach new heights** in my development journey. 🚀
 
 My goal is simple: **to innovate, learn, and build impactful solutions**. I stay up to date with the latest trends in **cloud computing**, **microservices**, and **CI/CD practices** to ensure I am ahead of the curve. 🔮 Let's shape the future together! 
 
