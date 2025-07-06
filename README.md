@@ -89,7 +89,7 @@ My goal is simple: **to innovate, learn, and build impactful solutions**. I stay
   Seeking projects that push me outside my comfort zone and force me to **think differently**, solve complex problems, and continuously evolve.
 
 ## 🚨 **How to Contribute** (Join My Fellowship)
-1. **Fork this repo** 🧑‍💻
+1. **Fork the repo** 🧑‍💻
 2. **Create a new branch** 🏗️
 3. **Cast your code** ✨
 4. **Send a Pull Request** 🏅
@@ -101,4 +101,4 @@ Feel free to open issues or ask questions—I'm always happy to help!
 ### 🎉 **Fun Fact**:
 When I'm not coding, I'm exploring new tech trends, crafting the perfect cup of coffee ☕, or jamming out to some tunes 🎶—because even developers need a little magic outside of the code!
 
-#NeverStopLearning #TechInnovation #CloudArchitecture #CI_CD #SpringBoot #Kubernetes #AWS #SystemDesign #DSAMastery #CodingJourney #TechGrowth #BuildingTheFuture #ContinuousImprovement
+#NeverStopLearning #TechInnovation #CloudArchitecture #CI_CD #SpringBoot #Kubernetes #AWS #SystemDesign #DSAMastery #CodingJourney #TechGrowth #BuildingTheFuture #ContinuousImprovement #Rider
