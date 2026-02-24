@@ -1,4 +1,4 @@
-# 🧙‍♂️ **Software Developer** | **Cloud Enthusiast (AWS)** | **CI/CD Practitioner** | **Docker** | **Kubernetes**
+# 🧙‍♂️ **Software Developer** | **Cloud Enthusiast (AWS)** | **CI/CD Practitioner** | **Docker** | **Kubernetes** | **Agentic AI Developer**
 
 Welcome to my GitHub! 👋 I’m a **Software Developer** 🧑‍💻 passionate about building **scalable**, **efficient**, and **cloud-powered systems**. Every day, I push myself to **expand my boundaries** by mastering cutting-edge technologies like **Spring Boot**, **Kafka**, and **AWS**. I believe in **continuous growth**, never settling for the status quo, and always striving to **reach new heights**. 🚀
 
