@@ -1,9 +1,33 @@
-# 🧙‍♂️ **Software Developer** | **Cloud Enthusiast (AWS)** | **CI/CD Practitioner** | **Docker** | **Kubernetes** | **Agentic AI Developer**
+# 🧙‍♂️ **Software Developer** | **Cloud Enthusiast (AWS)** | **CI/CD Practitioner** | **Docker** | **Kubernetes** | **Exploring AI & Agentic Systems**
 
 Welcome to my GitHub! 👋 I’m a **Software Developer** 🧑‍💻 passionate about building **scalable**, **efficient**, and **cloud-powered systems**. Every day, I push myself to **expand my boundaries** by mastering cutting-edge technologies like **Spring Boot**, **Kafka**, and **AWS**. I believe in **continuous growth**, never settling for the status quo, and always striving to **reach new heights**. 🚀
 
 My goal is simple: **to innovate, learn, and build impactful solutions**. I stay up to date with the latest trends in **cloud computing**, **microservices**, and **CI/CD practices** to stay ahead of the curve. 🔮 Let’s shape the future together!
+---
 
+## 🤖 AI & Intelligent Systems Journey (New Frontier)
+
+Recently, I’ve started expanding my engineering toolkit into the world of **Artificial Intelligence and Agentic Systems**. My goal is to combine my **backend and distributed systems expertise** with **AI-powered automation and intelligent applications**.
+
+I’m currently exploring and building projects around:
+
+- **Agentic AI Systems** 🧠 – Designing autonomous AI agents capable of reasoning, planning, and executing workflows.
+- **LLM Integrations** 🤖 – Building applications powered by Large Language Models.
+- **RAG (Retrieval-Augmented Generation)** 🔎 – Combining vector databases with LLMs for intelligent knowledge retrieval.
+- **AI-powered Backend Systems** ⚡ – Integrating AI capabilities into scalable microservices architectures.
+- **AI + Cloud Deployment** ☁️ – Running AI workloads using **Docker, Kubernetes, and AWS**.
+
+🚀 **Current Focus**
+- Learning how to design **production-ready AI systems**
+- Understanding **LLM orchestration and AI pipelines**
+- Integrating **AI services with backend architectures**
+
+💡 **Upcoming Goals**
+- Build **Agentic AI tools**
+- Develop **AI-powered developer productivity tools**
+- Deploy **AI microservices in cloud-native environments**
+
+---
 ---
 
 ## 🎯 **My Mission** (Goals & Growth)
@@ -134,8 +158,12 @@ Because even developers need a little magic outside of code!
 
 ## 🏷️ Hashtags
 
+### 🤖 AI & Future Tech
+#AIEngineering #AgenticAI #LLMApps #RAGSystems #AIBackend #IntelligentSystems
+
 ### #️⃣ Tech Stack  
 #CloudArchitecture #SpringBoot #AWS #Kubernetes #CI_CD #SystemDesign  
 
 ### 🧠 Learning Journey  
 #NeverStopLearning #CodingJourney #TechInnovation #ContinuousImprovement #DSAMastery
+
